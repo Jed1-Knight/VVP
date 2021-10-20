@@ -1,0 +1,11 @@
+D:\Для учебы\VVP\lab8.2\lab8.2\bin\Debug\netcoreapp3.1\lab8.2.exe
+D:\Для учебы\VVP\lab8.2\lab8.2\bin\Debug\netcoreapp3.1\lab8.2.deps.json
+D:\Для учебы\VVP\lab8.2\lab8.2\bin\Debug\netcoreapp3.1\lab8.2.runtimeconfig.json
+D:\Для учебы\VVP\lab8.2\lab8.2\bin\Debug\netcoreapp3.1\lab8.2.runtimeconfig.dev.json
+D:\Для учебы\VVP\lab8.2\lab8.2\bin\Debug\netcoreapp3.1\lab8.2.dll
+D:\Для учебы\VVP\lab8.2\lab8.2\bin\Debug\netcoreapp3.1\lab8.2.pdb
+D:\Для учебы\VVP\lab8.2\lab8.2\obj\Debug\netcoreapp3.1\lab8.2.csprojAssemblyReference.cache
+D:\Для учебы\VVP\lab8.2\lab8.2\obj\Debug\netcoreapp3.1\lab8.2.AssemblyInfoInputs.cache
+D:\Для учебы\VVP\lab8.2\lab8.2\obj\Debug\netcoreapp3.1\lab8.2.AssemblyInfo.cs
+D:\Для учебы\VVP\lab8.2\lab8.2\obj\Debug\netcoreapp3.1\lab8.2.dll
+D:\Для учебы\VVP\lab8.2\lab8.2\obj\Debug\netcoreapp3.1\lab8.2.pdb
