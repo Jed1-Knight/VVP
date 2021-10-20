@@ -1,0 +1,11 @@
+D:\Для учебы\VVP\lab10.3\lab10.3\bin\Debug\netcoreapp3.1\lab10.3.exe
+D:\Для учебы\VVP\lab10.3\lab10.3\bin\Debug\netcoreapp3.1\lab10.3.deps.json
+D:\Для учебы\VVP\lab10.3\lab10.3\bin\Debug\netcoreapp3.1\lab10.3.runtimeconfig.json
+D:\Для учебы\VVP\lab10.3\lab10.3\bin\Debug\netcoreapp3.1\lab10.3.runtimeconfig.dev.json
+D:\Для учебы\VVP\lab10.3\lab10.3\bin\Debug\netcoreapp3.1\lab10.3.dll
+D:\Для учебы\VVP\lab10.3\lab10.3\bin\Debug\netcoreapp3.1\lab10.3.pdb
+D:\Для учебы\VVP\lab10.3\lab10.3\obj\Debug\netcoreapp3.1\lab10.3.csprojAssemblyReference.cache
+D:\Для учебы\VVP\lab10.3\lab10.3\obj\Debug\netcoreapp3.1\lab10.3.AssemblyInfoInputs.cache
+D:\Для учебы\VVP\lab10.3\lab10.3\obj\Debug\netcoreapp3.1\lab10.3.AssemblyInfo.cs
+D:\Для учебы\VVP\lab10.3\lab10.3\obj\Debug\netcoreapp3.1\lab10.3.dll
+D:\Для учебы\VVP\lab10.3\lab10.3\obj\Debug\netcoreapp3.1\lab10.3.pdb
